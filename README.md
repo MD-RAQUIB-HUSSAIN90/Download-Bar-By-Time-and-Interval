@@ -1,6 +1,6 @@
 # Download Progress Bar
 
-<h3>## 🔗 Live Demo:- </h3>
+<h3>## 🔗 Live Demo:- https://md-raquib-hussain90.github.io/Download-Bar-By-Time-and-Interval/ </h3>
 
 A simple and interactive Download Progress Bar built using JavaScript, `setTimeout()` and `setInterval()`.
 
