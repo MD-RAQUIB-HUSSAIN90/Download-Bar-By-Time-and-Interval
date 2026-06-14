@@ -1,6 +1,6 @@
 # Download Progress Bar
 
-<h3>Live link:- </h3>
+<h3>## 🔗 Live Demo:- </h3>
 
 A simple and interactive Download Progress Bar built using JavaScript, `setTimeout()` and `setInterval()`.
 
@@ -50,7 +50,7 @@ Download-Progress-Bar/
 
 Add a screenshot or GIF of your project here.
 
-## 🔗 Live Demo
+
 
 Add your live project link here.
 
